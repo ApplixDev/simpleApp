@@ -1,2 +1,2 @@
 #MyApp
-This is first git app
+This is my first git app
